@@ -487,7 +487,7 @@ case $1 in
 		exit 0;
 		;;
 	-v|v|version )
-		echo 'ss-will Version 1.0, 2022-09-22, Copyright (c) 2022 Williamt
+		echo 'ss-will Version 1.0, 2022-09-22, Copyright (c) 2022 Williamt'
 		exit 0;
 		;;
 esac
