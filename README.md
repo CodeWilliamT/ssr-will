@@ -1,14 +1,14 @@
 ## Download Script
 
 
-git clone -b master https://github.com/CodeWilliamT/ssr-will
+#### git clone -b master https://github.com/CodeWilliamT/ssr-will
 
 
-# Run SSR Script
+## Run SSR Script
 
-chmod -R 777 ssr-will
+#### chmod -R 777 ssr-will
 
-sudo ssr-will/ss-will.sh -ssr
+#### sudo ssr-will/ss-will.sh -ssr
 
 Config your password：
 
@@ -25,7 +25,7 @@ Then will show your configed menu for your remember：
 
 ## Open BBR Speed-Up
 
-sudo ssr-will/ss-will.sh -bbr 
+#### sudo ssr-will/ss-will.sh -bbr 
 
 Some time will remind your to restart, input y to confirm.
 
@@ -36,11 +36,11 @@ You need to keep your VM ssr port opened.
 
 
 ## SSR Operation Command:
-/etc/init.d/shadowsocks start #Start
+#### /etc/init.d/shadowsocks start #Start
 
-/etc/init.d/shadowsocks stop #Stop
+#### /etc/init.d/shadowsocks stop #Stop
 
-./shadowsocksR.sh uninstall #uninstall
+#### ./shadowsocksR.sh uninstall #uninstall
 
 
 ## Supported Linux OS
